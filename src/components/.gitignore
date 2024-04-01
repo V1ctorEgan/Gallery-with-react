@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+.idea/
+.vscode/
+.env/
+.class
+.o
+.pyc
+.log
+.env
+tailwind.js
